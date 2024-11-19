@@ -51,7 +51,7 @@
 
 ### Решение 1
 
-![image](https://github.com/user-attachments/assets/0b57a960-9f42-42d6-b29b-4bfa6b118465)
+![image](https://github.com/user-attachments/assets/2600e186-e130-44c7-821c-6f533c31162b)
 
 * Создал Deployment из двух контейнеров
 
