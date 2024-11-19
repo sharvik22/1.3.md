@@ -23,3 +23,10 @@
 ![image](https://github.com/user-attachments/assets/1aa0daa4-22a0-428e-9506-2eab7185facb)
 
 ![image](https://github.com/user-attachments/assets/cbd614c2-0411-424f-8015-d2a674488bfd)
+
+* увеличил количество рекрик до 2-х применил Deployment
+
+![image](https://github.com/user-attachments/assets/d94714e6-9e01-412e-ad73-5c9610e881c3)
+
+![image](https://github.com/user-attachments/assets/f4909e1c-4b96-428e-a05e-7d0319d034f5)
+
