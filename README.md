@@ -104,9 +104,13 @@
 
 После запуска Service запустился pod.
 
-Удалил не нужный Service
+P.S. Удалил не нужный Service и проверил работы
 
 ![image](https://github.com/user-attachments/assets/ac50d4a3-6dd8-4b31-944d-7a598018ef1b)
+
+![image](https://github.com/user-attachments/assets/5b507a98-8a7f-41c0-aabb-9a42d3ee977b)
+
+![image](https://github.com/user-attachments/assets/b62b9484-bebb-40c8-bb80-2fd418840b5e)
 
 **************
 
