@@ -40,3 +40,23 @@
 
 ![image](https://github.com/user-attachments/assets/52d8122f-f8c3-4e72-8774-36eb0eae1404)
 
+* Создал отдельный Pod с приложением multitool, применил его
+
+![image](https://github.com/user-attachments/assets/979b838b-be4f-4dbf-9dbe-ffa2170fc114)
+
+![image](https://github.com/user-attachments/assets/3b35bda7-31a3-41de-97c5-43a4299831a3)
+
+* все поды запущенны
+
+![image](https://github.com/user-attachments/assets/b3076bca-1ac9-4eed-ab0b-998b92362676)
+
+
+
+
+
+
+
+
+
+
+
