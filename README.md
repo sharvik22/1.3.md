@@ -90,13 +90,23 @@
 
 ![image](https://github.com/user-attachments/assets/6f5518f0-e134-4c3a-bddb-447f41413205)
 
-
+![image](https://github.com/user-attachments/assets/cf462cd0-3d1b-46cf-b448-530bf98813b4)
 
 Под не запустился, состояние Init:0/1
 
 * Создаю Service, применяю его, проверяю запуск пода
 
+![image](https://github.com/user-attachments/assets/2295c4b2-893c-4690-a357-9e339f390239)
 
+![image](https://github.com/user-attachments/assets/547f07a6-e3ba-45dc-a840-5007ae95949d)
+
+![image](https://github.com/user-attachments/assets/18f20653-89b3-4e4a-bc40-f0213fc9b190)
+
+После запуска Service запустился pod.
+
+Удалил не нужный Service
+
+![image](https://github.com/user-attachments/assets/ac50d4a3-6dd8-4b31-944d-7a598018ef1b)
 
 **************
 
