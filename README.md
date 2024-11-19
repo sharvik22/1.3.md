@@ -24,7 +24,7 @@
 
 ![image](https://github.com/user-attachments/assets/cbd614c2-0411-424f-8015-d2a674488bfd)
 
-* увеличил количество рекрик до 2-х применил Deployment
+* увеличил количество реприк до 2-х применил Deployment
 
 ![image](https://github.com/user-attachments/assets/d94714e6-9e01-412e-ad73-5c9610e881c3)
 
