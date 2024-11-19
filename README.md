@@ -51,13 +51,25 @@
 ![image](https://github.com/user-attachments/assets/b3076bca-1ac9-4eed-ab0b-998b92362676)
 
 
-* проверка
+# Проверка
+
+Была ошибка в Service, пересоздал и запустил
 
 ![image](https://github.com/user-attachments/assets/da08b0e1-b972-45e5-a65a-621016d51de5)
 
+* пересоздал Service
+
+![image](https://github.com/user-attachments/assets/f0a5b89e-3d8c-4234-80ec-8b5dd85bdd3f)
+
 ![image](https://github.com/user-attachments/assets/b1eb07c2-94eb-4c97-805c-0a6e97297626)
 
+
+
+* проверка доступа nginx
+
 ![image](https://github.com/user-attachments/assets/2efdaf0c-d8e0-4787-8fc9-01cb72056dcc)
+
+* проверка доступа multitool
 
 ![image](https://github.com/user-attachments/assets/e25350dd-2522-4095-b732-73bf172e6b1f)
 
