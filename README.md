@@ -16,20 +16,6 @@
 
 ![image](https://github.com/user-attachments/assets/babeedc0-1972-4e1c-9d64-462bfc44b0cf)
 
-* Применил 
-
-![image](https://github.com/user-attachments/assets/e244d5aa-4fbd-4d28-aebb-19f9ecdcf25c)
-
-При запуске Deployment может возникнуть ошибка, связанная с тем, что контейнеры пытаются использовать один и тот же порт (80). 
-Чтобы решить эту проблему, можно изменить порт для контейнера multitool на отличный от 80 (8080)
-
-* Просмотр
-
-![image](https://github.com/user-attachments/assets/2c6ec2a3-e4fe-4c21-88dc-fa6d35b500b3)
-
-![image](https://github.com/user-attachments/assets/70723c46-93de-41c5-9d56-963bdb860289)
-
-
 ![image](https://github.com/user-attachments/assets/70566248-e923-4ff0-85e7-417040e370b4)
 
 ![image](https://github.com/user-attachments/assets/1aa0daa4-22a0-428e-9506-2eab7185facb)
