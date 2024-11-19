@@ -16,6 +16,8 @@
 
 ![image](https://github.com/user-attachments/assets/babeedc0-1972-4e1c-9d64-462bfc44b0cf)
 
+* Создал namespace, переключился на него, применил Deployment 
+
 ![image](https://github.com/user-attachments/assets/70566248-e923-4ff0-85e7-417040e370b4)
 
 ![image](https://github.com/user-attachments/assets/1aa0daa4-22a0-428e-9506-2eab7185facb)
