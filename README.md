@@ -51,6 +51,10 @@
 ![image](https://github.com/user-attachments/assets/b3076bca-1ac9-4eed-ab0b-998b92362676)
 
 
+* проверка
+
+![image](https://github.com/user-attachments/assets/da08b0e1-b972-45e5-a65a-621016d51de5)
+
 
 
 
