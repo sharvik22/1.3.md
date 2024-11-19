@@ -9,6 +9,8 @@
 
 ### Решение 1
 
+![image](https://github.com/user-attachments/assets/0b57a960-9f42-42d6-b29b-4bfa6b118465)
+
 * Создал Deployment
 
 ![image](https://github.com/user-attachments/assets/77cdcc45-5b6f-4b18-b5d1-4ebfd788f864)
