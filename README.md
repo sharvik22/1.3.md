@@ -30,3 +30,13 @@
 
 ![image](https://github.com/user-attachments/assets/f4909e1c-4b96-428e-a05e-7d0319d034f5)
 
+* Создать Service
+
+![image](https://github.com/user-attachments/assets/2f5af9ed-5088-402c-b42e-eea1c168302a)
+
+* Применяю и проверяю его
+
+![image](https://github.com/user-attachments/assets/d2a98660-c2fa-48e8-bcc2-275f52d0ce4c)
+
+![image](https://github.com/user-attachments/assets/52d8122f-f8c3-4e72-8774-36eb0eae1404)
+
